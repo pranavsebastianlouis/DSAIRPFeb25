@@ -2,7 +2,6 @@
 ## Artificial Intelligence
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
-This is my note about AI history
 ### Perceptron
 ### Backpropagation
 ### AI Winter
