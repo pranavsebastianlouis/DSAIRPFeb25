@@ -12,6 +12,11 @@
 ## Checklist
 1. Git bash terminal access in VS Code
 2. Venv creation. 
-    - ```pip install jupyter```
+```bash 
+pip install jupyter
+```
 3. Jupyter notebook
+```bash
+jupyter notebook
+```
 4. Auto code correction
