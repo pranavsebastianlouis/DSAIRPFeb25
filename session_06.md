@@ -24,6 +24,10 @@ jupyter notebook
 # Python Data Types
 ## Numeric Type
 ### Integer
+```
+int x = 10
+type(x)
+```
 ### Float
 ### Complex
 
