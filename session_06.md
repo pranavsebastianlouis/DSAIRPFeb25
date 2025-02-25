@@ -29,6 +29,10 @@ int x = 10
 type(x)
 ```
 ### Float
+```
+x = 30.6
+type(x)
+```
 ### Complex
 
 ## Text Type
