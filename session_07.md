@@ -11,6 +11,9 @@ if x > 10:
 # Loops
 
 ## For Loop
+
+## While Loop
+
 ### Continue
 ### Break
 
