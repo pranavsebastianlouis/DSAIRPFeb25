@@ -7,6 +7,9 @@
 # Loops
 
 ## For Loop
+
+## While Loop
+
 ### Continue
 ### Break
 
