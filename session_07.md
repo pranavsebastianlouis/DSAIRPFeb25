@@ -1,5 +1,9 @@
 # Control Flow
 ## IF
+```
+if x > 10:
+ print("x is greater than 10")
+```
 ## IF-ELSE
 ## IF-ELIF-ELSE
 ## Nested IFs
