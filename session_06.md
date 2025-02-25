@@ -25,7 +25,7 @@ jupyter notebook
 ## Numeric Type
 ### Integer
 ```
-int x = 10
+x = 10
 type(x)
 ```
 ### Float
