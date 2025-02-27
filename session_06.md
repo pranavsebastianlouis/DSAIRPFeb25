@@ -1,3 +1,6 @@
+# Walkthroughs
+1. [Google Colab](https://colab.research.google.com/)
+
 # Installations
 
 1. [Python download link](https://www.python.org/downloads/)
